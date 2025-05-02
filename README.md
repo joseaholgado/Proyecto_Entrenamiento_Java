@@ -67,6 +67,3 @@ Contiene recursos adicionales organizados por categorías de ejercicios:
 3. Configurar la base de datos usando el script SQL proporcionado en la carpeta `Base_de_datos`
 4. Ejecutar la aplicación
 
-## Licencia
-
-Este proyecto está disponible para uso educativo y personal.
